@@ -19,4 +19,4 @@ This repository contains code for Leap Motion's Unity Modules for Varjo XR-3 & V
 [um-docs]: https://leapmotion.github.io/UnityModules/
 [devsite]: https://developer.leapmotion.com/unity/ "Leap Motion Unity Developer site"
 [wiki]: https://github.com/leapmotion/UnityModules/wiki "Leap Motion Unity Modules Wiki"
-[LICENSE.md]: https://github.com/varjocom/VR3-XR3-UnityModules/blob/master/LICENSE.md "XR-3 & VR-3 UnityModules License"
+[LICENSE.md]: https://github.com/varjocom/XR3-VR3-UnityModules/blob/master/LICENSE.md "XR-3 & VR-3 UnityModules License"
